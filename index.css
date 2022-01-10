@@ -1,0 +1,27 @@
+.registration-form
+{
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius: 10px;
+    background: -webkit-linear-gradient(to right, #12c2e9, #c471ed, #f64f59); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+}
+.size
+{
+    max-width: 20px;
+    max-height: 20px;
+}
+.attr{
+    padding-bottom: 10px;
+}
+.grid
+{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color: green;
+}
